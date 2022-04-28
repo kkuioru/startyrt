@@ -2,7 +2,7 @@
 
 > 提醒： 滥用可能导致账户被BAN！！！ 
 
-> 提醒： Heroku 已经封禁本专案，请 Fork 本专案后，将 README.md 中的luckygoodfrend/strawberryo替换为自己的用户名后/仓库名，再进行部署。
+> 提醒： Heroku 已经封禁本专案，请 Fork 本专案后，将 README.md 中的/kkuioru/startyrt替换为自己的用户名后/仓库名，再进行部署。
 
 ## 概述
 
